@@ -12,4 +12,16 @@
     height: 67px;
     justify-content: left;
     border-radius: 19px;
+    position: absolute;
+}
+
+.mastertext{
+    display: flex;
+    text-align: left;
+    font-family: "Arial Narrow";
+    font-weight: Bolder;
+    font-size: 20px;
+    margin-left: 90px;
+    margin-top: -8px;
+    position: absolute;
 }

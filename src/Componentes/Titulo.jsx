@@ -3,9 +3,15 @@ import "./Titulo.css";
 function Titulo() {
 
     return (
-      <div className="TitleOne">
+      <div className="Mayor">
+        <div className="TitleOne">
       Exercícios
       </div>
+      <div className="TitleTwo">
+      4
+      </div>
+      </div>
+      
     )
   }
   

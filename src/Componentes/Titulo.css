@@ -4,4 +4,12 @@
     font-weight: Bolder;
     font-size: 20px;
     margin-bottom: 15px;
+    position:absolute;
+}
+.TitleTwo{
+    text-align: right;
+    font-family: "Arial Narrow";
+    font-weight: Bolder;
+    font-size: 20px;
+    margin-bottom: 15px;
 }
