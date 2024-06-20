@@ -1,9 +1,9 @@
 import React from "react";
-import "./Tarjeta2.css";
+import "./Tarjeta4.css";
 function Tarjeta1() {
 
     return (
-      <div className="Division1">
+      <div className="Division3">
 
       </div>
     )
